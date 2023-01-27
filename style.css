@@ -1,0 +1,165 @@
+*{
+    box-sizing: border-box;
+    width: auto;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+.menu {
+    background-color:steelblue;
+    list-style-type: none;
+    text-align: center; 
+    padding: 0;
+    margin: 0;
+  }
+  
+  .menu ul li {
+    display: inline-block;
+    padding: 20px;
+    text-decoration: none;
+    color: initial;
+  }
+  
+  .menu ul li:hover {
+    background-color: rgb(150, 215, 255);
+    transition: 1s;
+    }
+
+.menu a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.centropag{
+    background-image: url("imgs/background.jpg");
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 800px;
+    width: 100%;
+    text-align: center; 
+    padding: 369px;
+    margin: 0;
+}
+
+.centropag h{
+    background-color: steelblue;
+    border: 15px solid steelblue;
+    border-radius: 20px;
+    font-size: 40px;
+    width:60px;
+    height:60px;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+#link1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Signika Negative', sans-serif;
+    padding-top: 30px;
+}
+
+#link1 p1{
+    padding: 25px;
+}
+
+#link1 span{
+    display: block;
+    height: 550px;
+    background-image: url("https://muramasa.com.br/wp-content/uploads/2022/05/chainsaw-man.webp");
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#link2 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Signika Negative', sans-serif;
+    padding-top: 30px;
+}
+
+#link2 p2{
+    padding: 25px;
+}
+
+#link2 span{
+    display: block;
+    height: 550px;
+    background-image: url("https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2022/11/25/blue-lock-capa-1hrs1zmg672w6.jpg");
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#link3 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Signika Negative', sans-serif;
+    padding-top: 30px;
+}
+
+#link3 p3{
+    padding: 25px;
+}
+#link3 span{
+    display: block;
+    height: 550px;
+    background-image: url("https://pernostico.com.br/wp-content/uploads/2021/04/My-Hero-Academia-1140x641.png");
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#link4 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Signika Negative', sans-serif;
+    padding-top: 30px;
+}
+
+#link4 p4{
+    padding: 25px;
+}
+
+#link4 span{
+    display: block;
+    height: 550px;
+    background-image: url("https://www.sociedadenerd.com.br/wp-content/uploads/2022/09/Full-Metal-Alchemist-2003.png");
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#link5 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Signika Negative', sans-serif;
+    padding-top: 30px;
+}
+
+#link5 p5{
+    padding: 25px;
+}
+
+#link5 span{
+    display: block;
+    height: 550px;
+    background-image: url("https://static.cnews.fr/sites/default/files/radiant_manga.png");
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+    background-attachment: fixed;
+}
